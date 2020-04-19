@@ -245,11 +245,17 @@
   }, {
     "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
   }, {
-    "url": "https://github.com/amivin/aria2-heroku"
+    "url": "https://github.com/rebel6969/aria2-build"
   }, {
     "url": "https://github.com/heroku/heroku-buildpack-google-chrome"
   }, {
     "url": "https://github.com/heroku/heroku-buildpack-chromedriver"
+  }, {
+    "url": "https://github.com/notvad/heroku-buildpack-selenium"
+  }, {
+    "url": "https://github.com/emartech/heroku-buildpack-cloud-sql-proxy"
+  }, {
+    "url": "https://github.com/rebel6969/heroku-buildpack-youtube-dl"
   }, {
     "url": "heroku/python"
   }]
