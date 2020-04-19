@@ -241,6 +241,10 @@
     }
   }],
   "buildpacks": [{
+    "url": "heroku/python"
+  }, {
+    "url": "https://github.com/rebel6969/heroku-buildpack-youtube-dl"
+  }, {
     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
   }, {
     "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
@@ -252,9 +256,5 @@
     "url": "https://github.com/heroku/heroku-buildpack-chromedriver"
   }, {
     "url": "https://github.com/emartech/heroku-buildpack-cloud-sql-proxy"
-  }, {
-    "url": "https://github.com/rebel6969/heroku-buildpack-youtube-dl"
-  }, {
-    "url": "heroku/python"
   }]
 }
